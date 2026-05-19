@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Scripts auxiliares para generar los notebooks (referencia, no son parte del análisis)
+notebooks/_build_nb*.py
+
+# Datos crudos: pesan ~300 MB cada trimestre, no van al repo
+data/raw/*.zip
+data/raw/*/
+enoe_2025_trim4_csv/
+enoe_*_csv/
+
+# Permitimos el procesado para reproducibilidad
+!data/processed/.gitkeep
