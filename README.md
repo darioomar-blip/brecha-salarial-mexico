@@ -2,6 +2,8 @@
 
 > De la brecha mensual del 32%, casi la mitad la explican las horas trabajadas. La otra mitad no se explica con educación, sector ni geografía.
 
+**[→ Abrir dashboard interactivo](https://darioomar-blip.github.io/brecha-salarial-mexico/)** · gráficos en Plotly con hover, zoom y mapa coroplético de México.
+
 ![Visualización principal](outputs/banner.png)
 
 ---
