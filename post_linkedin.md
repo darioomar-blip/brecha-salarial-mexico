@@ -27,6 +27,9 @@ Lo que me llevo: la conversación pública mezcla brecha mensual con brecha por 
 
 ¿Qué variable omitida creen que pesa más en ese residual? Yo apuesto a antigüedad en el puesto y discriminación directa en negociación, pero no las tengo en ENOE.
 
+📊 Dashboard interactivo (Plotly + mapa coroplético):
+https://darioomar-blip.github.io/brecha-salarial-mexico/
+
 🔗 Repo + notebooks en el primer comentario 👇
 
 #DataAnalytics #Python #BrechaSalarial #México #PeopleAnalytics #DatosAbiertos #INEGI
